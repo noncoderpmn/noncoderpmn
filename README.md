@@ -1,5 +1,5 @@
 ![nprmal](https://github.com/noncoderpmn/noncoderpmn/blob/main/example-slide-350-3.jpg)
-<h1 align="center">Hi 👋, I'm noncoderpmn</h1>
+<h1 align="center">Hi 👋, I'm nonCoderPmn</h1>
 <h3 align="center">A passionate web developer from Myanmar</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
